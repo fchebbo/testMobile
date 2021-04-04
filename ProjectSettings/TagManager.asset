@@ -17,6 +17,7 @@ TagManager:
   - RingOfDeath
   - FxTemporaire
   - PlayerShip
+  - PlayerBullet
   layers:
   - Default
   - TransparentFX
